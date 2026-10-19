@@ -4,6 +4,10 @@ Python (Jupyter Notebook) ile hazırlanmış, dünya genelinde COVID-19 yayılı
 inceleyen bir **veri analizi ve görselleştirme** projesi. 22 Ocak 2020 – 27 Temmuz 2020
 arası veriler kullanılmıştır.
 
+## 📸 Örnek Görselleştirme
+
+![En Yüksek Ölüm Oranına Sahip İlk 20 Ülke](screenshots/en-yuksek-olum-orani-ilk-20-ulke.png)
+
 ## 📊 Analiz İçeriği
 
 - Veri setinin temizlenmesi ve 187 ülke / 78 vilayet bazında inceleme
